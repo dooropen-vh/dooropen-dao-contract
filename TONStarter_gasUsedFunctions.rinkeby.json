@@ -1,0 +1,6 @@
+{
+  "DOC  Deploy": "0x200205047c2c0ef073d857fead17ac99c91b07cdf3d8d56839aeb46751257f2c",
+  "LockDOC  Deploy": "0x4abbb8c61bc1e2d84363ad32005cef7f8f2aaa118cce9f6ef32a29e30506613b",
+  "LockDOCProxy Deploy": "0xc64af1d467d77ed55a0f6d558e0317abb215c2cb630676b8c3ef29a4512102d5",
+  "LockDOCProxy upgradeTo": "0x83bd4a7962b2da0dc51ffcd665222889bcfe5cb839dcbf572347493bf543b1cc"
+}
